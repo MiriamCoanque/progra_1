@@ -1,0 +1,1 @@
+print((lambda genero: "femenino" if genero == "f" else "masculino")("m"))

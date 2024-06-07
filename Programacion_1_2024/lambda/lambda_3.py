@@ -1,0 +1,1 @@
+print((lambda num: "es par" if num % 2 == 0 else "es impar")(30))

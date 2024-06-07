@@ -1,0 +1,1 @@
+print((lambda num: "es positivo" if num > 0 else "es negativo")(-2))
